@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-11T00:00:00.000Z",
+  "licenses": {
+    "prevent-senior-prod": {
+      "status": "active"
+    }
+  },
+  "signature": "X0z6DsqprJl-JRUl77p9usnmkvsxg90BYsIMAKCoSCEUa5VqFr6KB3anKe8Lra5jWoyknp_aWW8G2f1NVVF9Bw"
+}
